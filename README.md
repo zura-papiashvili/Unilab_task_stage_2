@@ -1,7 +1,7 @@
-# HTML_CSS_task_10
+# Unilab Stage 2 Project
 
 
-## Topic: CSS Forms
+
 
 
 [Preview Page (contact form)](https://zura-papiashvili.github.io/HTML_CSS_task_10) 
