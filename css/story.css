@@ -1,0 +1,53 @@
+.directory{
+    width: 250px ;
+}
+
+.story-left{
+    width: 50%;
+    background-image: url('../images/desert.jpg');
+    height: 600px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 12%;
+    color: #E8E8E8;
+    
+}
+.story-right{
+    width: 50%;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    padding: 10%;
+    padding-top: 15%;
+}
+
+.avatar img{
+    width:50px;
+    border-radius: 25px;
+}
+
+label{
+    margin-bottom: 10px;
+}
+input,select{
+    width: 360px;
+    height: 40px;
+    border-color:#EBEDED;
+    margin-bottom: 30px;
+}
+.submit-red{
+    width: 134px;
+    background-color: #FA6980;
+    border: none;
+    border-radius: 8px;
+}
+.story-elefant img{
+    width: 100% ;
+
+}
+.story-elefant p{
+    color: #A6ADB4;
+    text-align: justify;
+    margin-top: 40px;
+    width: 60%;
+}
