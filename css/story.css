@@ -51,3 +51,21 @@ input,select{
     margin-top: 40px;
     width: 60%;
 }
+.storyline{
+    padding: 2%;
+    color: #A6ADB4;
+}
+.storyline div{
+    width:30%
+
+}
+.storyline img{
+    width: 30px;
+}
+.time img{
+
+    width: 15px;
+}
+.time{
+    margin-top: 10px;
+}
