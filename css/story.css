@@ -40,6 +40,7 @@ input,select{
     background-color: #FA6980;
     border: none;
     border-radius: 8px;
+    color: white;
 }
 .story-elefant img{
     width: 100% ;
