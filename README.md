@@ -4,7 +4,7 @@
 
 
 
-[Preview Page (contact form)](https://zura-papiashvili.github.io/Unilab_task_stage_2/) 
+[Preview Page ](https://zura-papiashvili.github.io/Unilab_task_stage_2/) 
 
 #### Tree Structure:
 ```bash
@@ -20,3 +20,4 @@
 │   ├── README.md
 ```
 
+## Project consists two html page with responsive features
